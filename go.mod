@@ -1,4 +1,5 @@
-module github.com/hooklift/gowsdl
+module github.com/EnviroVision-Solutions/gowsdl
+
 
 go 1.15
 
